@@ -16,12 +16,65 @@ Course Requirements
 
 Work for the semester will be evaluated in five ways:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation in Class | 15% |
-| A Journal, to be turned in weekly via email | 15% |
-| A Proposal for Mill Creek | 15% |
-| A Proposal for Springfield | 15% |
-| A Final Project | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in Class
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A Journal, to be turned in weekly via email
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A Proposal for Mill Creek
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A Proposal for Springfield
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There will be no final exam. Ongoing work and final project will be posted online. A knowledge of web-authoring and geographic information systems (GIS) is not a prerequisite, but is highly desirable. For those who have no background in web-authoring, there are online classes available through MIT.
